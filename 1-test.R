@@ -53,3 +53,4 @@ sticker_icon <- sticker(
   filename = "stickers/rakesh.png")
 
 sticker_icon
+
